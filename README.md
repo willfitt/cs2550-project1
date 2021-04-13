@@ -13,9 +13,11 @@
 # HAIKU
 # Haiku styling for indentation
 
-
 # TABLE
 # basic border and cell styling for the table
 
 # FOOTER
 # Footer added
+
+# FAVICON
+# Favicon of Lord of the Rings logo added
