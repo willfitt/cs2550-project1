@@ -1,1 +1,2 @@
-# cs2550-project1
+# Project 1 
+# William Fitt
